@@ -2,16 +2,16 @@
 
 <div align="center">
 
-[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-myportfolio--five--vert--75.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://myportfolio-five-vert-75.vercel.app/)
+[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-myportfolio--sanam13.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://myportfolio-sanam13.vercel.app/)
 [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-LinkedApply_Pro-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/ajgnfmojakmcoicgnmnfefiliaeikmah?utm_source=item-share-cb)
 [![Render Live MVP](https://img.shields.io/badge/Live_MVP-DeGhost_on_Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://deghost-mvp.onrender.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-300+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sanamsai/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-naamsanam13-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naamsanam13)
-[![GitHub](https://img.shields.io/badge/GitHub-naamsanamone-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naamsanamone)
+[![GitHub](https://img.shields.io/badge/GitHub-naamsanamone-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naamsanamone/myportfolio)
 
 <br />
 
-**[🌐 View Live Portfolio](https://myportfolio-five-vert-75.vercel.app/)** • **[📄 Download Verified Resume (PDF)](https://myportfolio-five-vert-75.vercel.app/resume.pdf)** • **[📫 Contact Sai Venkat](mailto:sanamreddysaivenkatareddy@gmail.com)**
+**[🌐 View Live Portfolio](https://myportfolio-sanam13.vercel.app/)** • **[📄 Download Verified Resume (PDF)](https://myportfolio-sanam13.vercel.app/resume.pdf)** • **[📫 Contact Sai Venkat](mailto:sanamreddysaivenkatareddy@gmail.com)**
 
 </div>
 
@@ -140,8 +140,8 @@ To run this portfolio locally on your machine:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/naamsanamone/portfolio.git
-cd portfolio
+git clone https://github.com/naamsanamone/myportfolio.git
+cd myportfolio
 
 # 2. Install dependencies
 npm install
@@ -162,24 +162,24 @@ npm run preview
 
 This project is optimized for deployment on **Vercel**:
 
-1. Fork or clone this repository to your GitHub account: `https://github.com/naamsanamone/portfolio.git`
+1. Fork or clone this repository to your GitHub account: `https://github.com/naamsanamone/myportfolio.git`
 2. Navigate to your [Vercel Dashboard](https://vercel.com/new) and select **"Add New Project"**.
-3. Import the `portfolio` repository.
+3. Import the `myportfolio` repository.
 4. **Framework Preset**: Vite (auto-detected).
 5. Click **Deploy**. The application builds and deploys globally with sub-second page loads and 100/100 Core Web Vitals.
 
-**Production URL**: [`https://myportfolio-five-vert-75.vercel.app/`](https://myportfolio-five-vert-75.vercel.app/)
+**Production URL**: [`https://myportfolio-sanam13.vercel.app/`](https://myportfolio-sanam13.vercel.app/)
 
 ---
 
 ## 📬 Connect & Collaborate
 
-- **Live Portfolio**: [myportfolio-five-vert-75.vercel.app](https://myportfolio-five-vert-75.vercel.app/)
+- **Live Portfolio**: [myportfolio-sanam13.vercel.app](https://myportfolio-sanam13.vercel.app/)
 - **Email**: [sanamreddysaivenkatareddy@gmail.com](mailto:sanamreddysaivenkatareddy@gmail.com)
 - **LinkedIn**: [linkedin.com/in/naamsanam13](https://linkedin.com/in/naamsanam13)
 - **GitHub**: [github.com/naamsanamone](https://github.com/naamsanamone)
 - **LeetCode**: [leetcode.com/u/sanamsai](https://leetcode.com/u/sanamsai/)
-- **Resume**: [Download AI Engineer Resume (PDF)](https://myportfolio-five-vert-75.vercel.app/resume.pdf)
+- **Resume**: [Download AI Engineer Resume (PDF)](https://myportfolio-sanam13.vercel.app/resume.pdf)
 
 ---
 

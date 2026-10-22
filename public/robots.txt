@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /api/
 
-Sitemap: https://myportfolio-five-vert-75.vercel.app/sitemap.xml
+Sitemap: https://myportfolio-sanam13.vercel.app/sitemap.xml
