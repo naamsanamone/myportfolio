@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://developer-portfolio-sai.vercel.app/sitemap.xml
